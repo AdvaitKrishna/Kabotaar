@@ -1,0 +1,15 @@
+.centered {
+	display: flex;
+	justify-content: center;
+}
+
+.image {
+	height: 400px;
+	margin: 40px;
+}
+
+.heading {
+	font-weight: bolder;
+	font-size: 500%;
+	color: cornflowerblue;
+}
